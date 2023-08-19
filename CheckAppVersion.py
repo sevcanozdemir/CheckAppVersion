@@ -13,8 +13,8 @@ with open('CheckApppy.csv', newline='') as csvfile:
                 print("islem tamamlandi.")
                 break
 
-            userName = "winrmuser"
-            passWord = 'c9!$8b#r9jz2X7k'
+            userName = "root"
+            passWord = 'root123'
             print(row[0])
             print(row[1])
             print(row[2])
